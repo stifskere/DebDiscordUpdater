@@ -35,6 +35,13 @@ If you want to verify the contents of the script before running it with sudo, yo
 cat /usr/bin/update-discord
 ```
 
+You can add the `--install-bd` argument if you want to install better discord together with your
+discord installation
+
+```bash
+sudo update-discord --install-bd
+```
+
 ## Disclaimer
 
 ```
