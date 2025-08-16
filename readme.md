@@ -1,5 +1,10 @@
 # DebDiscordUpdater
 
+> [!warn]
+> This repository was intended to use on deb systems for old discord versions, it's not guaranteed to work anymore.
+>
+> This repository is now marked as archived because it won't ever be maintained anymore since I now use arch btw.
+
 Update your discord by only running a simple command!
 
 ## Installation
